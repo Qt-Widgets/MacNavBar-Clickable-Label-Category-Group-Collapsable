@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/z_allApps.png</file>
+        <file>icons/z_apple.png</file>
+        <file>icons/z_apps.png</file>
+        <file>icons/z_plugins.png</file>
+        <file>icons/z_prefApp.png</file>
+        <file>icons/z_systemUpdates.png</file>
+        <file>icons/z_unknown.png</file>
+        <file>icons/z_updates.png</file>
+        <file>icons/z_upToDate.png</file>
+        <file>icons/z_widgets.png</file>
+    </qresource>
+</RCC>
